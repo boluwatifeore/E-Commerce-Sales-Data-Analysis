@@ -44,7 +44,8 @@ The analysis focused on answering key questions that are associated to the E-com
 - What are the top 5 products in terms of sales, profit, and quantity sold?
 - Are there seasonal trends in sales or profit like higher sales in certain quarters of the year?
 
-```SELECT 
+ ```SQL
+SELECT 
 	SUBSTRING(order_date, 1,7) AS Month,
     SUM(Profit) AS TotalProfit,
     AVG(Discount) AS AverageDiscount
@@ -56,7 +57,8 @@ ORDER BY
     Month; 
 ```
 
-```SELECT 
+```SQL
+SELECT
     Product,
     SUM(Quantity) AS QuantitySold,
     SUM(Sales) AS TotalSales,
