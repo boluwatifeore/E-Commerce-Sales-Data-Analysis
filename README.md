@@ -76,8 +76,8 @@ LIMIT 5;
 
 - Most Profitable Products and Categories:
 
-Top Products: "Herbal Essences Bio," "Rose Gold Petal Studs," and "Sterling Wave Earrings" are the highest profit-generating items, suggesting strong demand in both beauty and accessory segments.
-Top Categories: "Body care" and "Make up" categories have the highest average profits and significant total sales. However, "Home and Accessories" category shows a loss in profit despite high sales, which I suggest may be due to certain discounting strategies or low margins.
+1. Top Products: "Herbal Essences Bio," "Rose Gold Petal Studs," and "Sterling Wave Earrings" are the highest profit-generating items, suggesting strong demand in both beauty and accessory segments.
+2. Top Categories: "Body care" and "Make up" categories have the highest average profits and significant total sales. However, "Home and Accessories" category shows a loss in profit despite high sales, which I suggest may be due to certain discounting strategies or low margins.
   
 - Effect of Discounts on Sales and Profits:
 
